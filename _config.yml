@@ -31,10 +31,10 @@ color:
 
 # Footer settings
 footer:
-  copyright: Dr. Henry Jekyll
-  location: Location
-  social: Around the Web
-  credits: Credits
+  copyright: JB productions
+  location: Locatie
+  social: Berijkbaar op het web
+  credits: Zin in thee?
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
@@ -55,7 +55,7 @@ address:
   - line: Beverly Hills, CA 90210
 
 # Credits content
-credits: 'Freelancer is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.'
+credits: 'Bedankt voor het bezoeken van mijn website. Ben je geintresseerd en wil je meer weten? De thee staat klaar!'
 
 # Build settings
 markdown: kramdown
