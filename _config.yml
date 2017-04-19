@@ -33,7 +33,7 @@ color:
 footer:
   copyright: JB productions
   location: Locatie
-  social: Berijkbaar op het web
+  social: Bereikbaar op het web
   credits: Zin in thee?
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
@@ -42,11 +42,11 @@ social:
     url: http://twitter.com/jekyllrb
   - title: facebook
     url:
-  - title: stack-overflow
+  - title: instagram
     url: http://stackoverflow.com/questions/tagged/jekyll
-  - title: bitbucket
+  - title: pinterest
     url: http://bitbucket.org/jekyll
-  - title: github
+  - title: linkedin
     url: http://github.com/jekyll
 
 # Postal address (add as many lines as necessary)
@@ -55,7 +55,7 @@ address:
   - line: Beverly Hills, CA 90210
 
 # Credits content
-credits: 'Bedankt voor het bezoeken van mijn website. Ben je geintresseerd en wil je meer weten? De thee staat klaar!'
+credits: 'Bedankt voor het bezoeken van mijn website. Ben je geïnteresseerd en wil je meer weten? De thee staat klaar!'
 
 # Build settings
 markdown: kramdown
